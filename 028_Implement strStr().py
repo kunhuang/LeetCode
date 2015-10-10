@@ -1,4 +1,3 @@
-import pdb
 class Solution(object):
     def strStr(self, haystack, needle):
         """
@@ -11,7 +10,6 @@ class Solution(object):
         if len(needle) == 0:
             return 0
         for i in range(len(haystack)-len(needle)+1):
-            pdb.set_trace()
             if haystack[i] == needle[0] and haystack[i:i+len(needle)] == needle:
                 return i
         return -1
