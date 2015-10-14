@@ -4,7 +4,6 @@ class Solution(object):
         :type digits: List[int]
         :rtype: List[int]
         """
-
         c = 1
         result = [0]*len(digits)
         for i in range(len(digits)-1, -1, -1):
