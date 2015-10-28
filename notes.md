@@ -15,3 +15,6 @@
         print [i for i in range(10)]
 136 Single Number, bit operation, using XOR to eliminate double number
 113 Path Sum, basic binary tree and path, remember to pop the node in the path at the end of dfs function
+114 Flatten Binary Tree
+
+
