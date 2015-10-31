@@ -17,4 +17,4 @@
 113 Path Sum, basic binary tree and path, remember to pop the node in the path at the end of dfs function
 114 Flatten Binary Tree
 078 Subsets, for loop trick: don't modify the iterator during the process
-
+069 Sqrt(x), binary search
