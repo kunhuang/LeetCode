@@ -1,4 +1,4 @@
-015 3Sum
+15 3Sum
 018 4Sum
 024 Swap nodes
 023 Merge K sorted Lists, HEAP implemented
@@ -16,5 +16,5 @@
 136 Single Number, bit operation, using XOR to eliminate double number
 113 Path Sum, basic binary tree and path, remember to pop the node in the path at the end of dfs function
 114 Flatten Binary Tree
-
+078 Subsets, for loop trick: don't modify the iterator during the process
 
