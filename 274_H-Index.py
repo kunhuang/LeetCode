@@ -14,7 +14,6 @@ class Solution(object):
                 return i
             else:
                 return i - 1
-
         return i
 
 citations = [0,0,0,0]
