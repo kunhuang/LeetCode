@@ -41,7 +41,5 @@ class Solution(object):
 
         max_profit = max(map(sum, zip(left_max_sum, right_max_sum)))
 
-        print left_max_sum
-        print right_max_sum
         return max_profit
 print Solution().maxProfit([1, 3, 4, 5])
